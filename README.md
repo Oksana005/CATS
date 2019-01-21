@@ -3,6 +3,6 @@
 ###### H1
 ___H1___
 * HI
-* HI .
+* HI.
 [HI CATS-LOVERS] (WWW.CATSLOVERS.COM)
 
